@@ -1,0 +1,2 @@
+﻿CPF MOTORISTA (Obrigatório - APENAS NÚMEROS);PLACA (Obrigatório - APENAS NÚMEROS);DATA VIAGEM (Obrigatório - EX.: 28/10/2018); VALOR (Obrigatório) ;USINA (Obrigatório);FAZENDA (Obrigatório);RAIO EM KM (Obrigatório);TONELADA (Obrigatório)
+333;mmm1234;21/08/2018; 5.000,50 ;Test;Test;28.98;18.98

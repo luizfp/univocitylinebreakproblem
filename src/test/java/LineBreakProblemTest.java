@@ -25,6 +25,6 @@ public class LineBreakProblemTest {
         final CsvParser parser = new CsvParser(settings);
         final List<String[]> rows = parser.parseAll(file);
         assertEquals(1, rows.size());
-        assertEquals(1, rows.get(0).length);
+        assertEquals(8, rows.get(0).length);
     }
 }
